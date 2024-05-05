@@ -1,0 +1,22 @@
+{
+  "name": "cs-dranisht-best",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dranisht/cs-dranisht-best.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "dranisht",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Dranisht/cs-dranisht-best/issues"
+  },
+  "homepage": "https://github.com/Dranisht/cs-dranisht-best#readme"
+}
